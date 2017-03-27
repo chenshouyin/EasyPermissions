@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">动态权限获取</string>
+    <string name="returned_from_app_settings_to_activity">从设置界面返回</string>
+    <string name="camera_and_wifi_rationale">没有权限,现在申请权限</string>
+    <string name="hasPermissions">权限被授予成功</string>
+    <string name="btCall">申请单个权限</string>
+    <string name="call_rationale">拨打电话权限被拒绝</string>
+    <string name="btCallAndWifi">申请多个权限</string>
+</resources>
